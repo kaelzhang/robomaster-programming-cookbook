@@ -1,3 +1,3 @@
-# DJI RobotMaster Programming Cookbook
+# DJI RoboMaster Programming Cookbook
 
-DJI RobotMaster python programming cookbook 
+DJI RoboMaster python programming cookbook 
